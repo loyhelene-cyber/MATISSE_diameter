@@ -150,7 +150,7 @@ if st.session_state.page == "intro":
     col1, col2, col3 = st.columns([1,2,1])
 
     with col2:
-        st.image("images/banniere.png", width=800)
+        st.image("banniere.png", width=800)
     st.markdown("""
 ## MATISSE Calibrator Angular Diameter Estimation
 
